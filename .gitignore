@@ -3,3 +3,4 @@ dist
 node_modules
 test.ts
 .DS_Store
+.vscode
